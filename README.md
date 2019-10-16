@@ -1,4 +1,4 @@
-![CURSOS VIRTUALES EN UDEMY](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/img/portada.png)
+![CURSOS VIRTUALES EN UDEMY](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/img/portada003.png)
 
 
 # JAVA ORIENTADO A OBJETOS
