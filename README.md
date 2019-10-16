@@ -15,4 +15,10 @@
 
 [![JAVA JDBC CON BASE DE DATOS ORACLE](http://img.youtube.com/vi/MR53Xgeg28Y/0.jpg)](http://www.youtube.com/watch?v=MR53Xgeg28Y "JAVA JDBC CON BASE DE DATOS ORACLE")
 
+# CUPONES PROMOCIONALES
 
+Se publicaran cupones de descuento en estos grupos.
+
+- Grupo 1: https://www.facebook.com/groups/universidadjava/
+- Grupo 2: https://www.facebook.com/groups/desarrollasoftware/
+- Grupo 3: https://www.facebook.com/groups/bolsa.sistemas/
