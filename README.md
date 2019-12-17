@@ -15,7 +15,17 @@
 
 [![JAVA JDBC CON BASE DE DATOS ORACLE](http://img.youtube.com/vi/MR53Xgeg28Y/0.jpg)](http://www.youtube.com/watch?v=MR53Xgeg28Y "JAVA JDBC CON BASE DE DATOS ORACLE")
 
-# CUPONES PROMOCIONALES
+
+# ORACLE PL/SQL
+
+- Cupon de $9.99: NAVIDAD2
+- Enlace: https://www.udemy.com/course/lenguaje-plsql/?couponCode=NAVIDAD2
+
+[![ORACLE PL/SQL](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/plsql.png)](https://youtu.be/qf5IF2dJtQc "ORACLE PL/SQL")
+
+
+
+# ENCUENTRA CUPONES PROMOCIONALES
 
 Se publicaran cupones de descuento en estos grupos.
 
