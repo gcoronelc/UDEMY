@@ -13,7 +13,7 @@
 - Cupon de $9.99: NAVIDAD1
 - Enlace: https://www.udemy.com/course/java-jdbc-oracle/?couponCode=NAVIDAD1
 
-[![JAVA JDBC CON BASE DE DATOS ORACLE](http://img.youtube.com/vi/MR53Xgeg28Y/0.jpg)](http://www.youtube.com/watch?v=MR53Xgeg28Y "JAVA JDBC CON BASE DE DATOS ORACLE")
+[![JAVA JDBC CON BASE DE DATOS ORACLE](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/jdbc.png)](http://www.youtube.com/watch?v=MR53Xgeg28Y "JAVA JDBC CON BASE DE DATOS ORACLE")
 
 
 # ORACLE PL/SQL
