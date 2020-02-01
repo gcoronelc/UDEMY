@@ -3,6 +3,9 @@
 
 # JAVA ORIENTADO A OBJETOS
 
+En es curso se desarrollasn los conceptos de la programación orientada a objetos, 
+patrones de software y la programación en capas.
+
 - Cupon de $9.99: **SUPERPROMO**
 - Enlace: https://www.udemy.com/course/java-orientado-a-objetos/?couponCode=SUPERPROMO
 
