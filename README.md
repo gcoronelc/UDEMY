@@ -3,7 +3,7 @@
 
 # JAVA ORIENTADO A OBJETOS
 
-- Cupon de $9.99: SUPERPROMO
+- Cupon de $9.99: **SUPERPROMO**
 - Enlace: https://www.udemy.com/course/java-orientado-a-objetos/?couponCode=SUPERPROMO
 
 [![JAVA ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/joo.png)](http://www.youtube.com/watch?v=EKlwF12-l9Y "JAVA ORIENTADO A OBJETOS")
