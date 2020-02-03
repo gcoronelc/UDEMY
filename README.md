@@ -8,6 +8,7 @@ patrones de software, la programación en capas y se aplica Swing para la creaci
 de las interfaces de usuario.
 
 - Cupon de $9.99: **SUPERPROMO**
+- Vence: **06.FEB.2020 05:02 AM PST (GMT -8)**
 - Enlace: https://www.udemy.com/course/java-orientado-a-objetos/?couponCode=SUPERPROMO
 
 [![JAVA ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/joo.png)](http://www.youtube.com/watch?v=EKlwF12-l9Y "JAVA ORIENTADO A OBJETOS")
