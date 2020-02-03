@@ -15,7 +15,8 @@ de las interfaces de usuario.
 
 # PROGRAMACIÓN DE BASE DE DATOS ORACLE CON JAVA JDBC
 
-- Cupon de $9.99: 
+- Cupon de $9.99: **SUPERPROMO**
+- Vence: **08.FEB.2020 04:02 AM PST (GMT -8)**
 - Enlace: https://www.udemy.com/course/java-jdbc-oracle/?referralCode=C518C8D3028403F7F6DF
 
 [![JAVA JDBC CON BASE DE DATOS ORACLE](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/jdbc.png)](http://www.youtube.com/watch?v=MR53Xgeg28Y "JAVA JDBC CON BASE DE DATOS ORACLE")
