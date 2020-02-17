@@ -7,16 +7,23 @@ En es curso se desarrollasn los conceptos de la programación orientada a objeto
 patrones de software, la programación en capas y se aplica Swing para la creación 
 de las interfaces de usuario.
 
-- Cupon de $9.99: **SUPERPROMO**
-- Vence: **06.FEB.2020 05:02 AM PST (GMT -8)**
-- Enlace: https://www.udemy.com/course/java-orientado-a-objetos/?couponCode=SUPERPROMO
+- Cupon de $10: **PROMOFEBRERO**
+- Vence: **21.FEB.2020 17:02 PM PST (GMT -8)**
+- Enlace: https://www.udemy.com/course/java-orientado-a-objetos/?couponCode=PROMOFEBRERO
 
 [![JAVA ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/joo.png)](http://www.youtube.com/watch?v=EKlwF12-l9Y "JAVA ORIENTADO A OBJETOS")
 
 # PROGRAMACIÓN DE BASE DE DATOS ORACLE CON JAVA JDBC
 
-- Cupon de $9.99: **SUPERPROMO**
-- Vence: **08.FEB.2020 04:02 AM PST (GMT -8)**
+En este curso aprenderás a programas bases de datos Oracle con JDBC 
+utilizando los objetos Statement, PreparedStatement, CallableStatement 
+y a programar transacciones correctamente teniendo en cuenta su rendimiento 
+y concurrencia.
+Al final del curso se integra todo lo desarrollado en una aplicación de escritorio.
+
+
+- Cupon de $10: **PROMOFEBRERO**
+- Vence: **21.FEB.2020 17:02 PM PST (GMT -8)**
 - Enlace: https://www.udemy.com/course/java-jdbc-oracle/?referralCode=C518C8D3028403F7F6DF
 
 [![JAVA JDBC CON BASE DE DATOS ORACLE](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/jdbc.png)](http://www.youtube.com/watch?v=MR53Xgeg28Y "JAVA JDBC CON BASE DE DATOS ORACLE")
@@ -24,7 +31,17 @@ de las interfaces de usuario.
 
 # ORACLE PL/SQL
 
-- Cupon de $9.99: 
+En este curso aprenderás a programas las bases de datos ORACLE con PL/SQL, 
+de esta manera estarás aprovechando las ventas que brinda este motor de 
+base de datos y mejoraras el rendimiento de tus consultas, transacciones 
+y la concurrencia.
+
+Los procedimientos almacenados que desarrolles con PL/SQL se pueden 
+ejecutarlo de Java, C#, PHP y otros lenguajes de programación.
+
+
+- Cupon de $10: **PROMOFEBRERO**
+- Vence: **21.FEB.2020 17:02 PM PST (GMT -8)** 
 - Enlace: https://www.udemy.com/course/lenguaje-plsql/?referralCode=3B8A67CA0AADFCFB930C
 
 [![ORACLE PL/SQL](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/plsql.png)](https://youtu.be/qf5IF2dJtQc "ORACLE PL/SQL")
