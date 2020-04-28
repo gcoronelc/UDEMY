@@ -1,15 +1,14 @@
 ![CURSOS VIRTUALES EN UDEMY](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/img/portada015.png)
 
-
 # JAVA ORIENTADO A OBJETOS
 
 En es curso se desarrollasn los conceptos de la programación orientada a objetos, 
 patrones de software, la programación en capas y se aplica Swing para la creación 
 de las interfaces de usuario.
 
-- Cupon de $10: **YOESTUDIOENCASA**
-- Vence: **09.ABR.2020 18:04 PM PDT (GMT -7)**
-- Enlace: https://www.udemy.com/course/java-orientado-a-objetos/?couponCode=YOESTUDIOENCASA
+- Cupon de $10: **ABR2020**
+- Vence: **03.MAYO.2020 00:05 AM PDT (GMT -7)**
+- Enlace: https://www.udemy.com/course/java-orientado-a-objetos/?couponCode=ABR2020
 
 [![JAVA ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/joo.png)](http://www.youtube.com/watch?v=EKlwF12-l9Y "JAVA ORIENTADO A OBJETOS")
 
@@ -22,9 +21,9 @@ y concurrencia.
 Al final del curso se integra todo lo desarrollado en una aplicación de escritorio.
 
 
-- Cupon de $10: **YOESTUDIOENCASA**
-- Vence: **09.ABR.2020 18:04 PM PDT (GMT -7)**
-- Enlace: https://www.udemy.com/course/java-jdbc-oracle/?couponCode=YOESTUDIOENCASA
+- Cupon de $10: **ABR2020**
+- Vence: **03.MAYO.2020 00:05 AM PDT (GMT -7)**
+- Enlace: https://www.udemy.com/course/java-jdbc-oracle/?couponCode=ABR2020
 
 [![JAVA JDBC CON BASE DE DATOS ORACLE](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/jdbc.png)](http://www.youtube.com/watch?v=MR53Xgeg28Y "JAVA JDBC CON BASE DE DATOS ORACLE")
 
@@ -40,9 +39,9 @@ Los procedimientos almacenados que desarrolles con PL/SQL se pueden
 ejecutarlo de Java, C#, PHP y otros lenguajes de programación.
 
 
-- Cupon de $10: **YOESTUDIOENCASA**
-- Vence: **09.ABR.2020 18:04 PM PDT (GMT -7)**
-- Enlace: https://www.udemy.com/course/lenguaje-plsql/?couponCode=YOESTUDIOENCASA
+- Cupon de $10: **ABR2020**
+- Vence: **03.MAYO.2020 00:05 AM PDT (GMT -7)**
+- Enlace: https://www.udemy.com/course/lenguaje-plsql/?couponCode=ABR2020
 
 [![ORACLE PL/SQL](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/plsql.png)](https://youtu.be/qf5IF2dJtQc "ORACLE PL/SQL")
 
