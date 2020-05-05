@@ -8,9 +8,9 @@ mercado laboral, es por eso que en este curso he tratado de que este
 inicio sea utilizando las mejores prácticas, y que este aprendizaje 
 te sea más llevadero y productivo. 
 
-- Cupon de $10: **ABR2020**
-- Vence: **04.MAYO.2020 21:05 PM PDT (GMT -7)**
-- Enlace: https://www.udemy.com/course/fund-java/?couponCode=ABR2020
+- Cupon de $10: **MAYO20201**
+- Vence: **07.MAYO.2020 21:05 PM PDT (GMT -7)**
+- Enlace: https://www.udemy.com/course/fund-java/?couponCode=MAYO20201
 
 [![FUNDAMENTOS DE PROGRAMACIÓN CON JAVA](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/fp_java.png)](https://youtu.be/1mcdHGywMvk "FUNDAMENTOS DE PROGRAMACIÓN CON JAVA")
 
