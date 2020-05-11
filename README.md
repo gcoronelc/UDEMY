@@ -1,13 +1,13 @@
 # FUNDAMENTOS DE PROGRAMACIÓN CON JAVA
 
 Este curso está dirigido a todas las personas que están empezando 
-o quieren iniciarse en el fascinante mundo de desarrollo de software 
-con lenguaje Java.
+o quieren iniciarse en el fascinante mundo de **desarrollo de software** 
+con lenguaje **Java**.
 
-Sin duda alguna, las personas que toman el desarrollo 
-de software con plataforma Java son profesionales muy valorados en el 
-mercado laboral, es por eso que en este curso he tratado de que este 
-inicio sea utilizando las mejores prácticas, y que este aprendizaje 
+Sin duda alguna, las personas que toman el **desarrollo de software** con 
+**plataforma Java son profesionales muy valorados en el mercado laboral**, 
+es por eso que en este curso he tratado de que este 
+inicio sea utilizando las **mejores prácticas**, y que este aprendizaje 
 te sea más llevadero y productivo. 
 
 - Cupon de $10: **MAYO20201**
@@ -20,12 +20,12 @@ te sea más llevadero y productivo.
 
 # JAVA ORIENTADO A OBJETOS
 
-En es curso se desarrollan los conceptos de la programación orientada a objetos, 
-patrones de software, la programación en capas y se aplica Swing para la creación 
+En es curso se desarrollan los conceptos de la **programación orientada a objetos**, 
+**patrones de software**, la **programación en capas** y se aplica Swing para la creación 
 de las interfaces de usuario.
 
 Cada sección o módulo finaliza con un proyecto donde se aplica todos los conceptos 
-que se desarrollan, pero sobre todo, se aplica la programación en capas.
+que se desarrollan, pero sobre todo, se aplica la **programación en capas**.
 
 
 - Cupon de $10: **MAYO20201**
@@ -38,14 +38,14 @@ que se desarrollan, pero sobre todo, se aplica la programación en capas.
 
 # PROGRAMACIÓN DE BASE DE DATOS ORACLE CON JAVA JDBC
 
-En este curso aprenderás a programas bases de datos Oracle con Java JDBC 
-utilizando los objetos Statement, PreparedStatement, CallableStatement 
-y a programar transacciones correctamente teniendo en cuenta su rendimiento 
-y sobre todo el concepto de concurrencia.
+En este curso aprenderás a programas **bases de datos Oracle** con **Java JDBC** 
+utilizando los objetos **Statement**, **PreparedStatement**, **CallableStatement** 
+y a programar **transacciones correctamente** teniendo en cuenta su rendimiento 
+y sobre todo la **concurrencia a los datos**.
 
 
-Al final del curso se integra todo lo desarrollado en una aplicación de escritorio 
-donde podras apreciar la programación en capas y las buenas practicas de desarrollo de software.
+Al final del curso se integra todo lo desarrollado en una **aplicación de escritorio** 
+donde podras apreciar la **programación en capas** y las **buenas practicas** de desarrollo de software.
 
 
 - Cupon de $10: **ABR2020**
@@ -58,13 +58,13 @@ donde podras apreciar la programación en capas y las buenas practicas de desarr
 
 # ORACLE PL/SQL
 
-En este curso aprenderás a programas las bases de datos ORACLE con PL/SQL, 
-de esta manera estarás aprovechando las ventas que brinda este motor de 
-base de datos y mejoraras el rendimiento de tus consultas, transacciones 
+En este curso aprenderás a programas las **bases de datos ORACLE** con **PL/SQL**, 
+de esta manera estarás aprovechando las **ventas que brinda este motor** de 
+base de datos y **mejoraras el rendimiento** de tus consultas, transacciones 
 y la concurrencia.
 
-Los procedimientos almacenados que desarrolles con PL/SQL los pueden 
-ejecutarlo desde Java, C#, PHP y otros lenguajes de programación.
+Los procedimientos almacenados que desarrolles con **PL/SQL** los pueden 
+ejecutarlo desde **Java**, **C#**, **PHP** y otros lenguajes de programación.
 
 
 - Cupon de $10: **MAYO20201**
@@ -78,7 +78,7 @@ ejecutarlo desde Java, C#, PHP y otros lenguajes de programación.
 
 # ENCUENTRA CUPONES PROMOCIONALES
 
-Se publicaran cupones de descuento en estos grupos de facebook.
+Se publicaran cupones de descuento en estos **grupos de facebook**.
 
 - Grupo 1: [Universidad Java]( https://www.facebook.com/groups/universidadjava/)
 - Grupo 2: [Desarrolla Software](https://www.facebook.com/groups/desarrollasoftware/)
