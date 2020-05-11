@@ -30,7 +30,7 @@ que se desarrollan, pero sobre todo, se aplica la programación en capas.
 
 - Cupon de $10: **MAYO20201**
 - Vence: **10.MAYO.2020 21:05 PM PDT (GMT -7)**
-- Enlace: https://www.udemy.com/course/java-orientado-a-objetos/?couponCode=MAYO20201
+- Enlace: [Este enlace te lleva al curso](https://www.udemy.com/course/java-orientado-a-objetos/?couponCode=MAYO20201)
 
 [![JAVA ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/joo.png)](http://www.youtube.com/watch?v=EKlwF12-l9Y "JAVA ORIENTADO A OBJETOS")
 
@@ -50,7 +50,7 @@ donde podras apreciar la programación en capas y las buenas practicas de desarr
 
 - Cupon de $10: **ABR2020**
 - Vence: **03.MAYO.2020 00:05 AM PDT (GMT -7)**
-- Enlace: https://www.udemy.com/course/java-jdbc-oracle/?couponCode=ABR2020
+- Enlace: [Este enlace te lleva al curso](https://www.udemy.com/course/java-jdbc-oracle/?couponCode=ABR2020)
 
 [![JAVA JDBC CON BASE DE DATOS ORACLE](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/jdbc.png)](http://www.youtube.com/watch?v=MR53Xgeg28Y "JAVA JDBC CON BASE DE DATOS ORACLE")
 
@@ -69,7 +69,7 @@ ejecutarlo desde Java, C#, PHP y otros lenguajes de programación.
 
 - Cupon de $10: **MAYO20201**
 - Vence: **12.MAYO.2020 10:05 AM PDT (GMT -7)**
-- Enlace: https://www.udemy.com/course/lenguaje-plsql/?couponCode=MAYO20201
+- Enlace: [Este enlace te lleva al curso](https://www.udemy.com/course/lenguaje-plsql/?couponCode=MAYO20201)
 
 [![ORACLE PL/SQL](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/plsql.png)](https://youtu.be/qf5IF2dJtQc "ORACLE PL/SQL")
 
@@ -78,8 +78,8 @@ ejecutarlo desde Java, C#, PHP y otros lenguajes de programación.
 
 # ENCUENTRA CUPONES PROMOCIONALES
 
-Se publicaran cupones de descuento en estos grupos.
+Se publicaran cupones de descuento en estos grupos de facebook.
 
-- Grupo 1: https://www.facebook.com/groups/universidadjava/
-- Grupo 2: https://www.facebook.com/groups/desarrollasoftware/
-- Grupo 3: https://www.facebook.com/groups/bolsa.sistemas/
+- Grupo 1: [Universidad Java]( https://www.facebook.com/groups/universidadjava/)
+- Grupo 2: [Desarrolla Software](https://www.facebook.com/groups/desarrollasoftware/)
+- Grupo 3: [Bolsa de Trabajo de Ingeniería de Sistemas](https://www.facebook.com/groups/bolsa.sistemas/)
