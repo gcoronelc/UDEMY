@@ -12,7 +12,7 @@ te sea más llevadero y productivo.
 
 - Cupon de $10: **MAYO20201**
 - Vence: **07.MAYO.2020 21:05 PM PDT (GMT -7)**
-- Enlace: https://www.udemy.com/course/fund-java/?couponCode=MAYO20201
+- Enlace: [Este enlace te lleva al curso](https://www.udemy.com/course/fund-java/?couponCode=MAYO20201)
 
 [![FUNDAMENTOS DE PROGRAMACIÓN CON JAVA](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/fp_java.png)](https://youtu.be/1mcdHGywMvk "FUNDAMENTOS DE PROGRAMACIÓN CON JAVA")
 
@@ -34,13 +34,18 @@ que se desarrollan, pero sobre todo, se aplica la programación en capas.
 
 [![JAVA ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/joo.png)](http://www.youtube.com/watch?v=EKlwF12-l9Y "JAVA ORIENTADO A OBJETOS")
 
+
+
 # PROGRAMACIÓN DE BASE DE DATOS ORACLE CON JAVA JDBC
 
-En este curso aprenderás a programas bases de datos Oracle con JDBC 
+En este curso aprenderás a programas bases de datos Oracle con Java JDBC 
 utilizando los objetos Statement, PreparedStatement, CallableStatement 
 y a programar transacciones correctamente teniendo en cuenta su rendimiento 
-y concurrencia.
-Al final del curso se integra todo lo desarrollado en una aplicación de escritorio.
+y sobre todo el concepto de concurrencia.
+
+
+Al final del curso se integra todo lo desarrollado en una aplicación de escritorio 
+donde podras apreciar la programación en capas y las buenas practicas de desarrollo de software.
 
 
 - Cupon de $10: **ABR2020**
@@ -50,6 +55,7 @@ Al final del curso se integra todo lo desarrollado en una aplicación de escrito
 [![JAVA JDBC CON BASE DE DATOS ORACLE](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/jdbc.png)](http://www.youtube.com/watch?v=MR53Xgeg28Y "JAVA JDBC CON BASE DE DATOS ORACLE")
 
 
+
 # ORACLE PL/SQL
 
 En este curso aprenderás a programas las bases de datos ORACLE con PL/SQL, 
@@ -57,8 +63,8 @@ de esta manera estarás aprovechando las ventas que brinda este motor de
 base de datos y mejoraras el rendimiento de tus consultas, transacciones 
 y la concurrencia.
 
-Los procedimientos almacenados que desarrolles con PL/SQL se pueden 
-ejecutarlo de Java, C#, PHP y otros lenguajes de programación.
+Los procedimientos almacenados que desarrolles con PL/SQL los pueden 
+ejecutarlo desde Java, C#, PHP y otros lenguajes de programación.
 
 
 - Cupon de $10: **MAYO20201**
@@ -66,6 +72,7 @@ ejecutarlo de Java, C#, PHP y otros lenguajes de programación.
 - Enlace: https://www.udemy.com/course/lenguaje-plsql/?couponCode=MAYO20201
 
 [![ORACLE PL/SQL](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/plsql.png)](https://youtu.be/qf5IF2dJtQc "ORACLE PL/SQL")
+
 
 
 
