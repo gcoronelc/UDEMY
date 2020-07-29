@@ -1,3 +1,6 @@
+![DESARROLLA SOFTWARE](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/img/portada016.png)
+
+
 # FUNDAMENTOS DE PROGRAMACIÓN CON JAVA
 
 Este curso está dirigido a todas las personas que están empezando 
@@ -10,9 +13,9 @@ es por eso que en este curso he tratado de que este
 inicio sea utilizando las **mejores prácticas**, y que este aprendizaje 
 te sea más llevadero y productivo. 
 
-- Cupon de $10: **JULIO20201**
-- Vence: **18.JULIO.2020 07:07 AM PDT (GMT -7)**
-- Enlace: [Este enlace te lleva al curso](https://www.udemy.com/course/fund-java/?couponCode=JULIO20201)
+- Cupon de $10: **JULIO20202**
+- Vence: **03.AGO.2020 02:08 AM PDT (GMT -7)**
+- Enlace: [Este enlace te lleva al curso](https://www.udemy.com/course/fund-java/?couponCode=JULIO20202)
 
 [![FUNDAMENTOS DE PROGRAMACIÓN CON JAVA](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/fp_java.png)](https://youtu.be/1mcdHGywMvk "FUNDAMENTOS DE PROGRAMACIÓN CON JAVA")
 
@@ -28,9 +31,9 @@ Cada sección o módulo finaliza con un proyecto donde se aplica todos los conce
 que se desarrollan, pero sobre todo, se aplica la **programación en capas**.
 
 
-- Cupon de $10: **JULIO20201**
-- Vence: **18.JULIO.2020 07:07 AM PDT (GMT -7)**
-- Enlace: [Este enlace te lleva al curso](https://www.udemy.com/course/java-orientado-a-objetos/?couponCode=JULIO20201)
+- Cupon de $10: **JULIO20202**
+- Vence: **03.AGO.2020 02:08 AM PDT (GMT -7)**
+- Enlace: [Este enlace te lleva al curso](https://www.udemy.com/course/java-orientado-a-objetos/?couponCode=JULIO20202)
 
 [![JAVA ORIENTADO A OBJETOS](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/joo.png)](http://www.youtube.com/watch?v=EKlwF12-l9Y "JAVA ORIENTADO A OBJETOS")
 
@@ -48,9 +51,9 @@ Al final del curso se integra todo lo desarrollado en una **aplicación de escri
 donde podras apreciar la **programación en capas** y las **buenas practicas** de desarrollo de software.
 
 
-- Cupon de $10: **JULIO20201**
-- Vence: **18.JULIO.2020 07:07 AM PDT (GMT -7)**
-- Enlace: [Este enlace te lleva al curso](https://www.udemy.com/course/java-jdbc-oracle/?couponCode=JULIO20201)
+- Cupon de $10: **JULIO20202**
+- Vence: **03.AGO.2020 02:08 AM PDT (GMT -7)**
+- Enlace: [Este enlace te lleva al curso](https://www.udemy.com/course/java-jdbc-oracle/?couponCode=JULIO20202)
 
 [![JAVA JDBC CON BASE DE DATOS ORACLE](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/jdbc.png)](http://www.youtube.com/watch?v=MR53Xgeg28Y "JAVA JDBC CON BASE DE DATOS ORACLE")
 
@@ -67,9 +70,9 @@ Los procedimientos almacenados que desarrolles con **PL/SQL** los pueden
 ejecutarlo desde **Java**, **C#**, **PHP** y otros lenguajes de programación.
 
 
-- Cupon de $10: **JULIO20201**
-- Vence: **18.JULIO.2020 07:07 AM PDT (GMT -7)**
-- Enlace: [Este enlace te lleva al curso](https://www.udemy.com/course/lenguaje-plsql/?couponCode=JULIO20201)
+- Cupon de $10: **JULIO20202**
+- Vence: **03.AGO.2020 02:08 AM PDT (GMT -7)**
+- Enlace: [Este enlace te lleva al curso](https://www.udemy.com/course/lenguaje-plsql/?couponCode=JULIO20202)
 
 [![ORACLE PL/SQL](https://raw.githubusercontent.com/gcoronelc/UDEMY/master/cursos/plsql.png)](https://youtu.be/qf5IF2dJtQc "ORACLE PL/SQL")
 
